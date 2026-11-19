@@ -1,0 +1,4 @@
+Linux is an open-source operating system.
+Many servers run on LINUX distributions.
+Learning linux commands is essential.
+Windows and macOS are different platforms.
